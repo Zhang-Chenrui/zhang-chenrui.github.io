@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the [Department of Computer Science](https://www.cs.ucsb.edu/) at the [University of California, Santa Barbara](https://www.ucsb.edu/). I received my B.S. in Computer Science and minor in Data Science from [California State Polytechnic University, Pomona](https://www.cpp.edu/). My research focuses on graph neural networks, structure-aware modeling, and interpretability. I previously collaborated with **Dr. Tingting Chen** at Cal Poly Pomona on multimodal motion and mobility analysis.
+I am a first-year PhD student in the [Department of Computer Science](https://www.cs.ucsb.edu/) at the [University of California, Santa Barbara](https://www.ucsb.edu/), where I work with Dr. [Ambuj Singh](https://cs.ucsb.edu/people/faculty/ambuj-k-singh). I received my B.S. in Computer Science from [California State Polytechnic University, Pomona](https://www.cpp.edu/). During my undergraduate studies, I worked in the Mobility Scooter Lab under the supervision of Dr. [Tingting Chen](https://www.cpp.edu/faculty/tingtingchen/index.shtml), focusing on multimodal motion and mobility analysis. I also spent one year as a visiting student at the [University of California, San Diego](https://www.ucsd.edu/), where I worked with Dr. [Yusu Wang](https://scholar.google.com/citations?user=L7jhqMIAAAAJ&hl=en) on machine learning on graphs. My research interests include machine learning on graphs and representation learning.
 
 [Download CV](/files/Chenrui_s_final_Resume_for_research.pdf) (Updated: April 2026)
 
