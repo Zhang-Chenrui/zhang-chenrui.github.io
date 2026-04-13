@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Chenrui Zhang"
+title                    : "Chenrui Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Chenrui Zhang"
-description              : &description "PhD student; geometric deep learning, graph ML, and interpretability."
+description              : &description "Incoming PhD student; geometric deep learning, graph ML, and interpretability."
 url                      : https://zhang-chenrui.github.io
 baseurl                  : ""
 repository               : "zhang-chenrui/zhang-chenrui.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "chenrui-zhang.jpg"
   name             : "Chenrui Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming PhD student. Research in geometric deep learning, graph neural networks, and interpretability."
+  bio              : "Incoming PhD student"
   location         : "California, USA"
-  employer         : "UC San Diego (visiting, Wang Lab) / Cal Poly Pomona"
+  employer         : "UC San Diego (visiting) · Cal Poly Pomona"
   uri              : # URL
   email            : "chenrui151129@outlook.com"
 
