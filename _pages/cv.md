@@ -26,12 +26,12 @@ Machine learning on graphs; LLMs with graphs; representation learning.
 ## Experience
 
 * **Visiting Student** — Wang Lab, UC San Diego (Mar 2025 – Aug 2025)  
-  *Advisor: Dr. Yusu Wang*  
-  - AGOP interpretability for graph neural networks (ICML 2026 submission in preparation): extended AGOP from MLPs to GNNs; feature- and edge-level analysis benchmarked against GNNExplainer and ground truth; adjacency-power metrics for explanation alignment; experiments across linear/ReLU and non-ReLU GCN variants.  
+  *Advisor: Prof. Yusu Wang*  
+  - AGOP interpretability for graph neural networks: extended AGOP from MLPs to GNNs; feature- and edge-level analysis benchmarked against GNNExplainer and ground truth; adjacency-power metrics for explanation alignment; experiments across linear/ReLU and non-ReLU GCN variants.  
   - Structure-aware modeling / Set2Graph: synthetic detector-style data with Gaussian mixture models; graph- and geometry-based architectures (3D Graph U-Net, Set2Graph, geometric transformers); dynamic-k regularization and multi-loss training for center prediction and activity classification.
 
 * **NSF-Sponsored Research Assistant** — Mobility Scooter Lab, Cal Poly Pomona (May 2023 – Jan 2025)  
-  *Advisor: Dr. Tingting Chen*  
+  *Advisor: Prof. Tingting Chen*  
   - Multimodal pipeline aligning pose keypoints with motion sensors; transformer encoder replacing LSTM with self-attention over nodes and time; ablations and hyperparameter studies; kinematic evaluation metrics from keypoints.
 
 * **Machine Learning Engineer Intern** — Character Face Generation (CFG) (May 2024 – Sep 2024)  
@@ -39,7 +39,7 @@ Machine learning on graphs; LLMs with graphs; representation learning.
   - Mesh semantic segmentation with Mesh Transformer (MeT); triangle-, vertex–edge-, and Laplacian-graph representations; edge attention and pooling for high-curvature regions; regional vertex offsets; geodesic and curvature evaluation.
 
 * **Teaching Assistant** — Computer Science Department, Cal Poly Pomona (Aug 2024 – present)  
-  *Supervisor: Dr. Hao Ji*  
+  *Supervisor: Prof. Hao Ji*  
   - Grading and support for CUDA, parallel algorithms, and GPU optimization; lectures on self-attention and applications in NLP and ViT.
 
 ## Skills
