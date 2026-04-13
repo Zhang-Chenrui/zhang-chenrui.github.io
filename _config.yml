@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Chenrui Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Chenrui Zhang"
-description              : &description "First-year PhD student at UCSB CS; geometric deep learning, graph ML, and interpretability."
+description              : &description "Incoming PhD student at UCSB (Fall 2026); geometric deep learning, graph ML, and interpretability."
 url                      : https://zhang-chenrui.github.io
 baseurl                  : ""
 repository               : "zhang-chenrui/zhang-chenrui.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "chenrui-zhang.jpg"
   name             : "Chenrui Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "First-year PhD student"
+  bio              : "Incoming PhD student (Fall 2026)"
   location         : "Santa Barbara, CA"
   employer         :
   uri              : # URL

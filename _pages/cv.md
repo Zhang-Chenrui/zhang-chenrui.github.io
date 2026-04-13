@@ -13,7 +13,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. Computer Science** — University of California, Santa Barbara (Sep 2025 – present)
+* **Ph.D. Computer Science** — University of California, Santa Barbara (Sep 2026 – present)
 
 * **B.S. Computer Science**, minor Data Science — California State Polytechnic University, Pomona (Aug 2021 – Dec 2025)  
   GPA 3.9/4.0. Cal-Bridge Scholar; President’s Honor List 2021–2023.  
