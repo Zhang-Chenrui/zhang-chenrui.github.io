@@ -81,11 +81,15 @@
   "languages": [],
   "interests": [
     {
-      "name": "Geometric deep learning",
+      "name": "Machine learning on graphs",
       "keywords": []
     },
     {
-      "name": "Graph neural networks & interpretability",
+      "name": "LLMs with graphs",
+      "keywords": []
+    },
+    {
+      "name": "Representation learning",
       "keywords": []
     }
   ],

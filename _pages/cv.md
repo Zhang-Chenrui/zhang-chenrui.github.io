@@ -21,7 +21,7 @@ redirect_from:
 
 ## Research interests
 
-Geometric deep learning; deep learning theory; large language models; graph neural networks; interpretability; structure-aware modeling.
+Machine learning on graphs; LLMs with graphs; representation learning.
 
 ## Experience
 
