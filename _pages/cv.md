@@ -25,7 +25,7 @@ Machine learning on graphs; LLMs with graphs; representation learning.
 
 ## Experience
 
-* **Visiting Student** — Wang Lab, UC San Diego (Mar 2025 – Aug 2025)  
+* **Visiting Student** — Wang Lab, UC San Diego (Apr 2025 – Apr 2026)  
   *Advisor: Prof. Yusu Wang*  
   - AGOP interpretability for graph neural networks: extended AGOP from MLPs to GNNs; feature- and edge-level analysis benchmarked against GNNExplainer and ground truth; adjacency-power metrics for explanation alignment; experiments across linear/ReLU and non-ReLU GCN variants.  
   - Structure-aware modeling / Set2Graph: synthetic detector-style data with Gaussian mixture models; graph- and geometry-based architectures (3D Graph U-Net, Set2Graph, geometric transformers); dynamic-k regularization and multi-loss training for center prediction and activity classification.
