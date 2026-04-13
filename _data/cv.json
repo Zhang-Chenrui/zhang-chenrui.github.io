@@ -4,11 +4,11 @@
     "email": "chenrui151129@outlook.com",
     "phone": "+1 (509) 551-0982",
     "website": "https://zhang-chenrui.github.io",
-    "summary": "Incoming PhD student. Geometric deep learning, graph neural networks, interpretability, and structure-aware modeling.",
+    "summary": "First-year PhD student at UCSB Computer Science. Geometric deep learning, graph neural networks, interpretability, and structure-aware modeling.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "California",
+      "city": "Santa Barbara",
       "countryCode": "US",
       "region": ""
     },
@@ -31,7 +31,7 @@
       "position": "Visiting Student",
       "website": "",
       "startDate": "2025-03-01",
-      "endDate": "",
+      "endDate": "2025-08-01",
       "summary": "AGOP interpretability for GNNs; structure-aware modeling and Set2Graph-style pipelines (advisor: Yusu Wang)."
     },
     {
@@ -52,6 +52,15 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of California, Santa Barbara",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
     {
       "institution": "California State Polytechnic University, Pomona",
       "area": "Computer Science (minor: Data Science)",

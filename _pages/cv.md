@@ -13,11 +13,11 @@ redirect_from:
 
 ## Education
 
+* **Ph.D. Computer Science** — University of California, Santa Barbara (Sep 2025 – present)
+
 * **B.S. Computer Science**, minor Data Science — California State Polytechnic University, Pomona (Aug 2021 – Dec 2025)  
   GPA 3.9/4.0. Cal-Bridge Scholar; President’s Honor List 2021–2023.  
   Relevant coursework: computer vision, CUDA programming, machine learning.
-
-* **Incoming PhD student** (program to be specified).
 
 ## Research interests
 
@@ -25,7 +25,7 @@ Geometric deep learning; deep learning theory; large language models; graph neur
 
 ## Experience
 
-* **Visiting Student** — Wang Lab, UC San Diego (Mar 2025 – present)  
+* **Visiting Student** — Wang Lab, UC San Diego (Mar 2025 – Aug 2025)  
   *Advisor: Dr. Yusu Wang*  
   - AGOP interpretability for graph neural networks (ICML 2026 submission in preparation): extended AGOP from MLPs to GNNs; feature- and edge-level analysis benchmarked against GNNExplainer and ground truth; adjacency-power metrics for explanation alignment; experiments across linear/ReLU and non-ReLU GCN variants.  
   - Structure-aware modeling / Set2Graph: synthetic detector-style data with Gaussian mixture models; graph- and geometry-based architectures (3D Graph U-Net, Set2Graph, geometric transformers); dynamic-k regularization and multi-loss training for center prediction and activity classification.
